@@ -12,7 +12,7 @@ From hunting reserves and weapon packs to equipment, hunting dogs, trophy lodges
 - **Version:** `5.0.0.5`
 - **Release:** Tool files and folders
 
-👉 **[Download the latest release](#)**
+👉 **[Download the latest release](https://github.com/TheHunter-COTW-DLC-Unlock-Tool/.github/releases)**
 
 ---
 
